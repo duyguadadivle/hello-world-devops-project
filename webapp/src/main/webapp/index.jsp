@@ -3,7 +3,6 @@
   <div class="input-container">
     <i class="fa fa-user icon"></i>
     <input class="input-field" type="text" placeholder="Username" name="usrnm">
-    <br>
   </div>
 
   <div class="input-container">
